@@ -3,8 +3,6 @@ ejemplo sencillo crud vue
 
 instalar el Cli de Vue + npm run serve 
 
-# tutorial-vue
-
 ## Project setup
 ```
 npm install
